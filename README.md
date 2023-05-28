@@ -16,10 +16,10 @@ This game has been made with the MinilibX library. You can find into the reposit
 
 ## How to play
 
-Movements of the player : `WASD`.
-Movements of the camera : left and right arrow keys. Bonus : you can move the camera with the mouse.
-Interactions with items or door : `E`.
-Quit the game : Echap or the red cross.
+- Movements of the player : `WASD`.
+- Movements of the camera : left and right arrow keys. Bonus : you can move the camera with the mouse.
+- Interactions with items or door : `E`.
+- Quit the game : Echap or the red cross.
 
 ## Condition of the map
 
