@@ -1,8 +1,8 @@
-		NO 			textures/north_text.xpm
-		SO 			textures/south_text.xpm
-		WE 			textures/west_text.xpm
-		EA 			textures/east_text.xpm
-		D 	textures/door.xpm
+		NO 			assets/north_text.xpm
+		SO 			assets/south_text.xpm
+		WE 			assets/west_text.xpm
+		EA 			assets/east_text.xpm
+		D 	assets/door.xpm
 
 
   C 		255,255,255

@@ -2,10 +2,10 @@
   F 		40,0,42
    C		 72,223,246
 
-NO 			textures/north_text.xpm
-   SO 			textures/south_text.xpm
-   WE 			textures/west_text.xpm
-  EA 			textures/east_text.xpm
+NO 			assets/north_text.xpm
+   SO 			assets/south_text.xpm
+   WE 			assets/west_text.xpm
+  EA 			assets/east_text.xpm
 
 
 
