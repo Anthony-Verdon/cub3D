@@ -4,6 +4,7 @@
 
 This project is part of the fourth circle of projects of the 42 common core, and it's the second one in group. The goal is to implement Raycasting. For that, I was with my friend Nathan Locussol (login 42 : nlocusso, Github account : https://github.com/Skylow667). You will find the subject of the project into the repository. My grade : 125/100
 
+![](https://github.com/AnthonyVerdon-42Projects/cub3D/blob/master/cub3D.gif)
 ## How to use it
 
 1. Clone it `git clone git@github.com:AnthonyVerdon-42Projects/cub3D.git`.
